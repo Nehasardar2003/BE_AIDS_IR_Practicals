@@ -24,13 +24,14 @@ This repository contains Information Retrieval (IR) practicals for the Bachelor 
 1. **Clone the repository**:
    ```bash
    git clone https://github.com/Nehasardar2003/BE_AIDS_IR_Practicals.git
-   cd BE_AIDS_IR_Practicals
+   cd BE_AIDS_IR_Practicals ```
    
 2. **Set up the environment**
 Install the required libraries by running:
 ```bash
 pip install -r requirements.txt
-
+```
+---
 3. **Run the notebooks**
 Open any notebook in the `Notebooks` directory to explore each practical.
 
